@@ -9,7 +9,7 @@ description: The dose-response curve is probably the most iconic graph from the 
   This means that even a massive overdose of buprenorphine will not cause total apnea
   (total cessation of breathing), so doctors can safely give buprenorphine to recovering
   addicts. Image courtesy of Zak Fallows. CC-BY
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-s10-drugs-and-the-brain-spring-2013/e3d75dd119e812973316566b46288d19_ES-S10s13-th.jpg
+file: /media/courses/es-s10-drugs-and-the-brain-spring-2013/e3d75dd119e812973316566b46288d19_ES-S10s13-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The dose-response curve is probably the most iconic graph from the science
@@ -25,6 +25,8 @@ image_metadata:
   credit: Image courtesy of Zak Fallows. CC-BY
   image-alt: 'A graph showing the dose-response curves for Fentanyl, Buprenorphine,
     and Heroin. '
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: ES-S10s13-th.jpg
 uid: e3d75dd1-19e8-1297-3316-566b46288d19

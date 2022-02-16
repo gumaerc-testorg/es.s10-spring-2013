@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Handouts
 uid: 38ce298c-d4ff-138c-ef19-420694dfce4e
 ---
