@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides study materials for the course, including a recreation
+  drugs and neurotransmitters chart and a dose-response curves and course home graphic.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -11,7 +13,7 @@ Recreational Drugs and Neurotransmitters Chart
 
 The [HTML version of the chart](/ans7870/ES/ES.S10/S13/studymaterials/drugchart.htm) is more beautiful, and it looks good in a web broswer. 
 
-The [PDF version of the chart]({{< baseurl >}}/resources/mites_s10s13_drugchart) will look better when printed on paper. 
+The {{% resource_link 87e1f895-6a4d-902e-eed3-9c57c5f5e7ce "PDF version of the chart" %}} will look better when printed on paper. 
 
 **Guide to the Chart:** 
 
@@ -32,8 +34,8 @@ The second portion of the chart lists several neurotransmitters along with key d
 {{< anchor "More_details_on_the_course_home_graphic" >}}{{< /anchor >}}Dose-Response Curves and Course Home Graphic
 -------------------------------------------------------------------------------------------------------------------
 
-[More details on the course home graphic (PDF)]({{< baseurl >}}/resources/mites_s10s13_details)
+{{% resource_link 13f83831-3d00-f377-05ad-0a4a40b90cf1 "More details on the course home graphic (PDF)" %}}
 
-[Python source code to draw dose-response curve images: drc.py (PY)]({{< baseurl >}}/resources/drc)
+{{% resource_link 068c61f4-94c5-c5ae-48c6-171dc7a44c14 "Python source code to draw dose-response curve images: drc.py (PY)" %}}
 
-[Dose-Response Curve Images (ZIP)]({{< baseurl >}}/resources/dose-response_curve_images) (This ZIP file contains: 4 .png files.)
+{{% resource_link 10cf90da-b0ea-3e9d-87ba-b6311772d9da "Dose-Response Curve Images (ZIP)" %}} (This ZIP file contains: 4 .png files.)

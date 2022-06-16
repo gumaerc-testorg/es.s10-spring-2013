@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture slides for selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,9 +35,9 @@ Teaser
 {{< tdopen >}}
 
 
-[Drugs and the Brain teaser (PPT)]({{< baseurl >}}/resources/mites_s10s13_teaser-1)
+{{% resource_link 2922d5a0-c1f1-260c-1d90-425f56164608 "Drugs and the Brain teaser (PPT)" %}}
 
-[Drugs and the Brain teaser (PDF)]({{< baseurl >}}/resources/mites_s10s13_teaser)
+{{% resource_link 08fee17b-3e0d-23e4-7906-b14e9a1a282a "Drugs and the Brain teaser (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -51,9 +53,9 @@ Introduction
 {{< tdopen >}}
 
 
-[Week 1 lecture slides (PPT)]({{< baseurl >}}/resources/mites_s10s13_week1-1)
+{{% resource_link a21e07b0-b1ad-34bc-dafe-63579a149386 "Week 1 lecture slides (PPT)" %}}
 
-[Week 1 lecture slides (PDF)]({{< baseurl >}}/resources/mites_s10s13_week1)
+{{% resource_link 1beabe62-b73e-f25e-420e-c0783bcf6c7b "Week 1 lecture slides (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -69,9 +71,9 @@ Drug Mechanisms, Explained with Antidepressants
 {{< tdopen >}}
 
 
-[Week 2 lecture slides (PPT)]({{< baseurl >}}/resources/mites_s10s13_week2-1)
+{{% resource_link d8d327be-21ab-331e-3b94-9a3fe97ec593 "Week 2 lecture slides (PPT)" %}}
 
-[Week 2 lecture slides (PDF)]({{< baseurl >}}/resources/mites_s10s13_week2)
+{{% resource_link 5dbac440-9146-af45-3179-dd9c4ac0ed0a "Week 2 lecture slides (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -85,7 +87,7 @@ Drug Mechanisms, Explained with Antidepressants
 Pharmacokinetics
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 3 lecture slides (PDF)]({{< baseurl >}}/resources/mites_s10s13_week3)
+{{% resource_link 1a28ca32-bd00-b2a8-7876-e8e1146d28ea "Week 3 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ Pharmacokinetics
 Drug Addiction, Dopamine, and Liking vs. Wanting
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 4 lecture slides (PDF)]({{< baseurl >}}/resources/mites_s10s13_week4)
+{{% resource_link 98fb878d-0b40-bd63-6dad-29c3dd0105f7 "Week 4 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +111,7 @@ Drug Addiction, Dopamine, and Liking vs. Wanting
 Action Potentials, Alcohol, and Shock Therapies
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 5 lecture slides (PDF)]({{< baseurl >}}/resources/mites_s10s13_week5)
+{{% resource_link 7f42be9e-1c0f-8965-bd5c-942715ee501d "Week 5 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,9 +125,9 @@ Alcohol Antagonists
 {{< tdopen >}}
 
 
-[Week 6 lecture slides (PPT)]({{< baseurl >}}/resources/mites_s10s13_week6-1)
+{{% resource_link 8a98621a-aae5-cb0e-6e1e-66f5b2200ae8 "Week 6 lecture slides (PPT)" %}}
 
-[Week 6 lecture slides (PDF)]({{< baseurl >}}/resources/mites_s10s13_week6)
+{{% resource_link 7d4b2927-80b1-9b21-1737-06adf14f254c "Week 6 lecture slides (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -143,7 +145,7 @@ Dose-Response Curves
 
 This session had no lecture slides. 
 
-See the [handouts]({{< baseurl >}}/pages/handouts) instead. 
+See the {{% resource_link 38ce298c-d4ff-138c-ef19-420694dfce4e "handouts" %}} instead. 
 
 
 {{< tdclose >}}
@@ -157,7 +159,7 @@ See the [handouts]({{< baseurl >}}/pages/handouts) instead. 
 Anxiety and Sedatives
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 8 lecture slides (PDF)]({{< baseurl >}}/resources/mites_s10s13_week8)
+{{% resource_link 68156853-cc89-ddb8-ba37-bf718b9ee5bf "Week 8 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +171,7 @@ Anxiety and Sedatives
 Psychosis, Antipsychotics, and Parkinson's Disease
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 9 lecture slides (PDF)]({{< baseurl >}}/resources/mites_s10s13_week9)
+{{% resource_link 26654137-2d10-4325-dffe-1438b80469d3 "Week 9 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +183,7 @@ Psychosis, Antipsychotics, and Parkinson's Disease
 The Two Dichotomies
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 10 lecture slides (PDF)]({{< baseurl >}}/resources/mites_s10s13_week10)
+{{% resource_link 6e12c6dd-d1ab-7c72-a12c-d1e6a4895c78 "Week 10 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +197,7 @@ Recreational Drugs
 {{< tdopen >}}
 
 
-[Week 11 lecture slides (PDF)]({{< baseurl >}}/resources/mites_s10s13_week11)
+{{% resource_link 5ec311cb-6489-b39d-7062-e796fccc06c0 "Week 11 lecture slides (PDF)" %}}
 
 [Recreational Drugs and Neurotransmitters Chart](/ans7870/ES/ES.S10/S13/studymaterials/drugchart.htm)
 
@@ -211,7 +213,7 @@ Recreational Drugs
 Appetite and Nausea, Syringes
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 12 lecture slides (PDF)]({{< baseurl >}}/resources/mites_s10s13_week12)
+{{% resource_link e0f72d48-53e2-a33f-d675-a72e1e733183 "Week 12 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

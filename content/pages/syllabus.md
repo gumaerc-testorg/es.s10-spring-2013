@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  the Experimental Study Group (ESG), credits and grading, the instructor's version
+  of the syllabus, and the schedule of weekly topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -29,7 +32,7 @@ This class gives 6 units of General Elective credit. Note that the average MIT c
 More Details
 ------------
 
-View the instructor's version of the [syllabus (PDF)]({{< baseurl >}}/resources/mites_s10s13_syllabus). 
+View the instructor's version of the {{% resource_link 7a7a894f-0952-1c34-415f-599790c61384 "syllabus (PDF)" %}}. 
 
 Calendar
 --------
