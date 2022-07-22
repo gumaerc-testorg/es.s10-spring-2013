@@ -5,6 +5,7 @@ file: /courses/es-s10-drugs-and-the-brain-spring-2013/10ba221b0e3c04583efe1c21d2
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection

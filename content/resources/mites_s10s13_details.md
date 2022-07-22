@@ -4,6 +4,7 @@ description: ''
 file: /courses/es-s10-drugs-and-the-brain-spring-2013/13f838313d00f37705ad0a4a40b90cf1_MITES_S10S13_Details.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

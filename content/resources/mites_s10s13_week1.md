@@ -5,6 +5,7 @@ file: /courses/es-s10-drugs-and-the-brain-spring-2013/1beabe62b73ef25e420ec0783b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Week 1 lecture slides
 uid: 1beabe62-b73e-f25e-420e-c0783bcf6c7b
 ---
 This file contains information regarding week 1 lecture slides.
-
