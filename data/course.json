@@ -44,8 +44,10 @@
   },
   "learning_resource_types": [
     "Exams with Solutions",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
-  "site_uid": "89f3b777-a7a3-435f-8f61-4a56eb0716cc",
+  "site_uid": "58c0006e-ef38-4963-a44b-1d44f40d33e8",
+  "site_short_id": "es.s10-spring-2013",
   "title": "Course Metadata"
 }
