@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding week 3 lecture slides.
 file: /courses/es-s10-drugs-and-the-brain-spring-2013/af0f488fdaa894b1ee64450c00e97959_MITES_S10S13_Week%203.pdf
+file_size: 1246805
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
