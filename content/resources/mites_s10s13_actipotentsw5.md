@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding action potentials.
 file: /courses/es-s10-drugs-and-the-brain-spring-2013/ea123aa71a2aeb2ad49e7552b5450882_MITES_S10S13_ActiPotentsW5.pdf
+file_size: 145449
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
