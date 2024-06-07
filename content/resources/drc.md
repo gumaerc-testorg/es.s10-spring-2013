@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file related to study materials.
 file: /courses/es-s10-drugs-and-the-brain-spring-2013/068c61f494c5c5ae48c6171dc7a44c14_drc.py
+file_size: 16351
 file_type: text/python-source
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

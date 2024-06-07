@@ -10,6 +10,7 @@ description: The dose-response curve is probably the most iconic graph from the 
   (total cessation of breathing), so doctors can safely give buprenorphine to recovering
   addicts. Image courtesy of Zak Fallows. CC-BY
 file: /courses/es-s10-drugs-and-the-brain-spring-2013/e3d75dd119e812973316566b46288d19_ES-S10s13-th.jpg
+file_size: 11785
 file_type: image/jpeg
 image_metadata:
   caption: The dose-response curve is probably the most iconic graph from the science
