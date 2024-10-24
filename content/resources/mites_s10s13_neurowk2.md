@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding neurotransmitters mechanisms
   and antidepressants.
-file: /courses/es-s10-drugs-and-the-brain-spring-2013/c3933627bd3162c9ccbefc015f307329_MITES_S10S13_neurowk2.pdf
+file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/c3933627bd3162c9ccbefc015f307329_MITES_S10S13_neurowk2.pdf
 file_size: 65509
 file_type: application/pdf
 learning_resource_types: []

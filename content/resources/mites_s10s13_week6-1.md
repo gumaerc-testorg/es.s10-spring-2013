@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Week 6 lecture slides.
-file: /courses/es-s10-drugs-and-the-brain-spring-2013/8a98621aaae5cb0e6e1e66f5b2200ae8_MITES_S10S13_Week6.pptx
+file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/8a98621aaae5cb0e6e1e66f5b2200ae8_MITES_S10S13_Week6.pptx
 file_size: 97222
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 learning_resource_types:
