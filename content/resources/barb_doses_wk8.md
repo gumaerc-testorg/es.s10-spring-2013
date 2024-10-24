@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file regarding Barbiturate doses.
-file: /courses/es-s10-drugs-and-the-brain-spring-2013/49be2bb6326115f6581b4f7e48e56df5_barb_doses_wk8.xlsx
+file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/49be2bb6326115f6581b4f7e48e56df5_barb_doses_wk8.xlsx
 file_size: 9676
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types: []

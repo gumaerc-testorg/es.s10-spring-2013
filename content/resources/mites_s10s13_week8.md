@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding week 8 lecture slides.
-file: /courses/es-s10-drugs-and-the-brain-spring-2013/68156853cc89ddb8ba37bf718b9ee5bf_MITES_S10S13_Week8.pdf
+file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/68156853cc89ddb8ba37bf718b9ee5bf_MITES_S10S13_Week8.pdf
 file_size: 1208086
 file_type: application/pdf
 learning_resource_types:
