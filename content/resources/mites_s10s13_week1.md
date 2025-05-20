@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding week 1 lecture slides.
-file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/1beabe62b73ef25e420ec0783bcf6c7b_MITES_S10S13_Week1.pdf
+file: /courses/es-s10-drugs-and-the-brain-spring-2013/1beabe62b73ef25e420ec0783bcf6c7b_MITES_S10S13_Week1.pdf
 file_size: 1210110
 file_type: application/pdf
 learning_resource_types:
