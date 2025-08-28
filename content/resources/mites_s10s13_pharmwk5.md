@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding pharmokinetics companion.
 draft: false
-file: /courses/es-s10-drugs-and-the-brain-spring-2013/a34350b03e7d21118e1e58c325e23de9_MITES_S10S13_pharmwk5.pdf
+file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/a34350b03e7d21118e1e58c325e23de9_MITES_S10S13_pharmwk5.pdf
 file_size: 102632
 file_type: application/pdf
 image_metadata:
