@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/es-s10-drugs-and-the-brain-spring-2013/7a7a894f09521c34415f599790c61384_MITES_S10S13_Syllabus.pdf
+file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/7a7a894f09521c34415f599790c61384_MITES_S10S13_Syllabus.pdf
 file_size: 111635
 file_type: application/pdf
 image_metadata:

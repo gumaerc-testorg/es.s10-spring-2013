@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains information regarding neurotransmitters and drugs
   chart.
 draft: false
-file: /courses/es-s10-drugs-and-the-brain-spring-2013/87e1f8956a4d902eeed39c57c5f5e7ce_MITES_S10S13_drugchart.pdf
+file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/87e1f8956a4d902eeed39c57c5f5e7ce_MITES_S10S13_drugchart.pdf
 file_size: 617685
 file_type: application/pdf
 image_metadata:

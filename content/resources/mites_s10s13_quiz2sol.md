@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/es-s10-drugs-and-the-brain-spring-2013/a08e3609b25bc27fdab717a2b0201d50_MITES_S10S13_quiz2sol.pdf
+file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/a08e3609b25bc27fdab717a2b0201d50_MITES_S10S13_quiz2sol.pdf
 file_size: 66779
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding alcohol antagonists.
 draft: false
-file: /courses/es-s10-drugs-and-the-brain-spring-2013/86ce073edb370a1baab5d56a5f904e6d_MITES_S10S13_AlcohAntagow6.pdf
+file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/86ce073edb370a1baab5d56a5f904e6d_MITES_S10S13_AlcohAntagow6.pdf
 file_size: 553706
 file_type: application/pdf
 image_metadata:

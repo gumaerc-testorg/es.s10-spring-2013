@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding drugs and the brain teaser.
 draft: false
-file: /courses/es-s10-drugs-and-the-brain-spring-2013/2922d5a0c1f1260c1d90425f56164608_MITES_S10S13_Teaser.pptx
+file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/2922d5a0c1f1260c1d90425f56164608_MITES_S10S13_Teaser.pptx
 file_size: 499825
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 image_metadata:
