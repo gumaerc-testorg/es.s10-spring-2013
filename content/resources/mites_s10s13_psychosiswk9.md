@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding psychosis.
 draft: false
-file: /courses/es-s10-drugs-and-the-brain-spring-2013/a57ced5dd26c2c837efacd641dc67be6_MITES_S10S13_psychosiswk9.pdf
+file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/a57ced5dd26c2c837efacd641dc67be6_MITES_S10S13_psychosiswk9.pdf
 file_size: 84457
 file_type: application/pdf
 image_metadata:

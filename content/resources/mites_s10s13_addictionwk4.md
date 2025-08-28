@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains information regarding drug addiction, dopamine, and
   liking vs. wanting.
 draft: false
-file: /courses/es-s10-drugs-and-the-brain-spring-2013/8cec8c0294678e97422ad18ce0e3a253_MITES_S10S13_addictionwk4.pdf
+file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/8cec8c0294678e97422ad18ce0e3a253_MITES_S10S13_addictionwk4.pdf
 file_size: 554827
 file_type: application/pdf
 image_metadata:
