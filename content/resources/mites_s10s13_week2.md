@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding week 2 lecture slides.
-file: /courses/es-s10-drugs-and-the-brain-spring-2013/5dbac4409146af453179dd9c4ac0ed0a_MITES_S10S13_Week2.pdf
+file: /ol-ocw-studio-app/courses/es-s10-drugs-and-the-brain-spring-2013/5dbac4409146af453179dd9c4ac0ed0a_MITES_S10S13_Week2.pdf
 file_size: 783964
 file_type: application/pdf
 learning_resource_types:
