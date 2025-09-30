@@ -15,7 +15,7 @@ uid: 3a8ead41-6279-673a-39d1-9243e3aafeeb
 
 This page focuses on the course _ES.S10 Drugs and the Brain_ as it was taught by Zak Fallows in Spring 2013.
 
-This course is a multidisciplinary introduction to pharmacology, neurotransmitters, drug mechanisms, and brain diseases from addiction to schizophrenia. It is a pass/fail seminar offered through the [Experimental Study Group](http://esg.mit.edu).
+This course is a multidisciplinary introduction to pharmacology, neurotransmitters, drug mechanisms, and brain diseases from addiction to schizophrenia. It is a pass/fail seminar offered through the {{% resource_link "1d032dd2-d58d-47fe-a27b-c6274b1c125d" "Experimental Study Group" %}}.
 
 ## Course Outcomes
 
